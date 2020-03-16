@@ -1,0 +1,28 @@
+body {
+	background-color: #194052; /* Cor principal - Classic Blue */
+}
+
+img {
+	width: 20% !important;
+}
+
+h1 {
+	color: #46B7EB !important;
+	font-size: 900% !important;
+}
+
+.usuario {
+	margin-top: 5% !important;
+}
+
+.btn {
+	border-color: #46B7EB;
+	color: #46B7EB !important;
+	background-color: #194052;
+}
+
+.btn:hover {
+	border-color: #194052;
+	color: #194052 !important;
+	background-color: #46B7EB;
+}

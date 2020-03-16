@@ -1,0 +1,29 @@
+body {
+    color: #46B7EB;
+}
+
+.btn {
+	border-color: #46B7EB;
+	color: #46B7EB !important;
+	background-color: #194052;
+}
+
+.btn:hover {
+	border-color: #194052;
+	color: #194052 !important;
+	background-color: #46B7EB;
+}
+
+input::placeholder {
+    color: #46B7EB !important;
+}
+
+input,
+select,
+textarea,
+a{
+    background-color: #194052 !important;
+    color: #46B7EB !important;
+    border-color: #46B7EB !important;    
+}
+

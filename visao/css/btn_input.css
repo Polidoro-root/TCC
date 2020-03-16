@@ -1,0 +1,25 @@
+.btn {
+	border-color: #46B7EB !important;
+	color: #46B7EB !important;
+	background-color: #194052 !important;
+}
+
+.btn:hover,
+.input:hover {
+	border-color: #194052 !important;
+	color: #194052 !important;
+	background-color: #46B7EB !important;
+}
+
+input,
+select,
+textarea,
+table{
+	border-color: #46B7EB !important;
+	color: #46B7EB !important;
+	background-color: #194052 !important;
+}
+
+input::placeholder {
+	color: #46B7EB !important;
+}

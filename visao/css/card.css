@@ -1,0 +1,20 @@
+.card {
+    background-color: #46b7eb !important;
+    color: #194052 !important;
+}
+
+.btn-card {
+	border-color: #194052 !important;
+	color: #194052 !important;
+	background-color: #46B7EB !important;
+}
+
+.btn-card:hover {
+	border-color: #46B7EB !important;
+	color: #46B7EB !important;
+	background-color: #194052 !important;
+}
+
+.card-header {
+	background-color: #46b7eb !important;
+}

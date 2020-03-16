@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #46B7EB !important;
+}
+
+.btn-nav {
+	border-color: #194052 !important;
+	color: #194052 !important;
+	background-color: #46B7EB !important;
+}
+
+.btn-nav:hover {
+	border-color: #46B7EB !important;
+	color: #46B7EB !important;
+	background-color: #194052 !important;
+}
+
+a {
+    color: #194052;
+}
+
+.navbar-toggler {
+    background-color: #194052 !important;
+}
+
